@@ -1,4 +1,4 @@
-# OCR Field Extraction System 📄
+# YOLO Field Detection OCR Field Extraction System 📄
 
 ## Project Objective 🎯
 The OCR Field Extraction System addresses the challenge of automating document processing by extracting specific fields from images. Traditional manual data entry is time-consuming and error-prone, especially when dealing with large volumes of documents. This system automates the process using advanced computer vision and OCR technologies.
@@ -126,11 +126,7 @@ python src/main.py --input_dir /path/to/images --output_dir /path/to/output
 4. Enhanced error recovery mechanisms
 5. Cloud storage integration
 
-## Contributing 🤝
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License 📝
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Please note that the dataset used in this analysis is not attached or mentioned here due to its proprietary nature and confidentiality agreements with the industry
 
 ## Support 💬
 For support, please open an issue in the GitHub repository.
