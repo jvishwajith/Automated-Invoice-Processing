@@ -95,23 +95,6 @@ Raw Text → Field Processing → Data Structuring → Validation
 2. CUDA-compatible GPU (optional)
 3. Tesseract OCR installed
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ocr-field-extraction.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Configure paths in config.py
-# Place YOLO weights in models directory
-```
-
-### Usage
-```python
-# Run the pipeline
-python src/main.py --input_dir /path/to/images --output_dir /path/to/output
-```
 
 ## Results and Performance 📊
 - **Accuracy**: High precision in field detection and extraction
